@@ -1,5 +1,11 @@
 _repo: The-Bible-Douay-Rheims-Book-68-2-Peter-The-Challoner-Revision_8368
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8368#The-Bible-Douay-Rheims-Book-68-2-Peter-The-Challoner-Revision
 gutenberg_issued: '2005-06-01'
 gutenberg_type: Text
 identifiers:
